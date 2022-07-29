@@ -1,0 +1,7 @@
+
+<meta>
+    <info author="Bené" name="Pegar dinheiro por comando" version="1.0.0" />
+
+    <script src="money.lua" type="server" />
+
+</meta>
